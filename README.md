@@ -1,5 +1,6 @@
 
 AI-Generated Text Detection using BERT
+
 Welcome to our AI-Generated Text Detection project! In this repository, we present a robust solution for detecting AI-generated text using BERT, a cutting-edge natural language processing model. Whether you're a researcher, developer, or a curious enthusiast, this project empowers you to explore, understand, and combat AI-generated content effectively.
 
 Table of Contents
